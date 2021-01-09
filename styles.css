@@ -28,7 +28,7 @@ li{
   margin: 1px;
   font-family: century gothic;
   color: white;
-  position: relative;
+  position: absolute;
 }
 
 a{
