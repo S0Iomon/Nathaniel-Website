@@ -28,7 +28,7 @@ li{
   margin: 1px;
   font-family: century gothic;
   color: white;
-  position: absolute;
+  position: relative;
 }
 
 a{
@@ -406,6 +406,23 @@ img{
   padding: 10px;
   border-color: white;
 }
+
+.freecodecamp{
+  width: 65px;
+  height: 60px;
+  border-color: black;
+  border-radius: 200px;
+  background-color: white;
+  
+}
+.links{
+  display: flex;
+  text-align: right;
+  justify-content: space-around;
+  padding: 10px;
+  margin: 0px;
+}
+
 
 .freecodecamp{
   width: 65px;
