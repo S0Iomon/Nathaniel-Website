@@ -7,19 +7,23 @@ body{
   background-size: 100%;
 }
 
+#mainlol{
+  position: absolute;
+}
 header{
-  
   background-color: black;
   padding: 10px;
   border-style: solid;
   border-color: #F8DB48;
   border-width: 7px;
   scroll-behavior: smooth;
+  position: absolute;
 }
 
 .ul{
   margin: 0px;
   text-align: right;
+  display: inline;
 }
 li{
   
