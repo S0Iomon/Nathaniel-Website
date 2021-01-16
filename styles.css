@@ -12,14 +12,12 @@ body{
 }
 header{
   background-color: black;
-  padding: 20px;
   border-style: solid;
   border-color: #F8DB48;
   border-width: 7px;
   scroll-behavior: smooth;
   position: absolute;
   height: 100px;
-  width: 700px;
 }
 
 .ul{
